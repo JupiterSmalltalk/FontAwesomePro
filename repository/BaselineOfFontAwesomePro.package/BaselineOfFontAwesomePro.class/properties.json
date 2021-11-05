@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfFontAwesomePro",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfFontAwesomePro",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
