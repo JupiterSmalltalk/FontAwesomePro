@@ -1,0 +1,3 @@
+*FontAwesomePro-Core
+fontAwesomeLightStyle
+  ^ 'fal'

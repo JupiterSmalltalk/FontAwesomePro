@@ -4,4 +4,9 @@
 	"instance" : {
 		"fontAwesome" : "jupiter 11/05/2021 12:03",
 		"fontAwesome:" : "jupiter 11/05/2021 12:05",
-		"fontAwesomeListIcon:" : "jupiter 11/05/2021 15:24" } }
+		"fontAwesomeBrandsStyle" : "jupiter 11/05/2021 18:13",
+		"fontAwesomeDuotoneStyle" : "jupiter 11/05/2021 18:13",
+		"fontAwesomeLightStyle" : "jupiter 11/05/2021 18:13",
+		"fontAwesomeListIcon:" : "jupiter 11/05/2021 15:24",
+		"fontAwesomeRegularStyle" : "jupiter 11/05/2021 18:12",
+		"fontAwesomeSolidStyle" : "jupiter 11/05/2021 18:12" } }

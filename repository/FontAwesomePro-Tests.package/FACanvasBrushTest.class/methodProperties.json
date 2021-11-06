@@ -22,6 +22,7 @@
 		"testFontAwesomeLight" : "jupiter 11/05/2021 14:40",
 		"testFontAwesomeListIcons" : "jupiter 11/05/2021 15:30",
 		"testFontAwesomeListIconsOrdered" : "jupiter 11/05/2021 15:31",
+		"testFontAwesomeMasks" : "jupiter 11/05/2021 18:24",
 		"testFontAwesomeNames" : "jupiter 11/05/2021 15:05",
 		"testFontAwesomePullLeft" : "jupiter 11/05/2021 16:34",
 		"testFontAwesomePullRight" : "jupiter 11/05/2021 16:34",
@@ -33,4 +34,13 @@
 		"testFontAwesomeRotateBy" : "jupiter 11/05/2021 16:12",
 		"testFontAwesomeSmall" : "jupiter 11/05/2021 14:47",
 		"testFontAwesomeSolid" : "jupiter 11/05/2021 14:40",
-		"testFontAwesomeStack" : "jupiter 11/05/2021 17:04" } }
+		"testFontAwesomeStack" : "jupiter 11/05/2021 17:04",
+		"testFontAwesomeTransformDown" : "jupiter 11/05/2021 17:38",
+		"testFontAwesomeTransformFlipHorizontal" : "jupiter 11/05/2021 17:54",
+		"testFontAwesomeTransformFlipVertical" : "jupiter 11/05/2021 17:53",
+		"testFontAwesomeTransformGrow" : "jupiter 11/05/2021 17:19",
+		"testFontAwesomeTransformLeft" : "jupiter 11/05/2021 17:38",
+		"testFontAwesomeTransformRight" : "jupiter 11/05/2021 17:37",
+		"testFontAwesomeTransformRotate" : "jupiter 11/05/2021 17:52",
+		"testFontAwesomeTransformShrink" : "jupiter 11/05/2021 17:20",
+		"testFontAwesomeTransformUp" : "jupiter 11/05/2021 17:36" } }
