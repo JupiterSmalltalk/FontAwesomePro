@@ -1,0 +1,14 @@
+{
+	"category" : "FontAwesomePro-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FAFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "WAFileMetadataLibrary",
+	"type" : "normal" }
