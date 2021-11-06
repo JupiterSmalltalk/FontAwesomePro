@@ -1,0 +1,14 @@
+{
+	"category" : "FontAwesomePro-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FACanvasBrushTest",
+	"pools" : [
+		 ],
+	"super" : "WAAbstractCanvasBrushTest",
+	"type" : "normal" }

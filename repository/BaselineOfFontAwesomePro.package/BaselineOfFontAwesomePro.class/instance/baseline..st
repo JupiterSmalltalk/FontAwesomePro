@@ -2,4 +2,6 @@ baseline
 baseline: spec
 	<baseline>
 	spec for: #'common' do: [
-		spec package: 'FontAwesomePro-Core'. ].
+		spec 
+			package: 'FontAwesomePro-Core';
+			package: 'FontAwesomePro-Tests'. ].
