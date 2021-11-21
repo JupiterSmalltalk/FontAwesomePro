@@ -1,3 +1,3 @@
 accessing
 tag
-  ^ 'span'
+  ^ 'i'
